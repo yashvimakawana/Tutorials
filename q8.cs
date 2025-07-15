@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace Tutorials
 {
-    internal class Program
+    internal class q8
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("24SOECE13033 - MAKAWANA YASHVI");
-            Console.WriteLine("Hello World");
+            Console.Write("Enter String : ");
+            string str = Console.ReadLine();
+            Console.Write(str.ToUpper());
         }
     }
 }

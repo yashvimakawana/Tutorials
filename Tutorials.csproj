@@ -43,9 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="q10.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="q11.cs" />
+    <Compile Include="q12.cs" />
+    <Compile Include="q13.cs" />
+    <Compile Include="q14.cs" />
+    <Compile Include="q15.cs" />
+    <Compile Include="q16.cs" />
+    <Compile Include="q17.cs" />
+    <Compile Include="q18.cs" />
+    <Compile Include="q19.cs" />
     <Compile Include="q2.cs" />
+    <Compile Include="q20.cs" />
+    <Compile Include="q21.cs" />
+    <Compile Include="q22.cs" />
+    <Compile Include="q3.cs" />
+    <Compile Include="q4.cs" />
+    <Compile Include="q5.cs" />
+    <Compile Include="q6.cs" />
+    <Compile Include="q7.cs" />
+    <Compile Include="q8.cs" />
+    <Compile Include="q9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
