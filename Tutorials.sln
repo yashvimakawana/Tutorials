@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorials", "Tutorials.csproj", "{993E90F0-F00A-4828-B5BF-85B3E052A595}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "precatis", "..\precatis\precatis.csproj", "{3092F595-40BC-451C-9412-38E291D6F9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{993E90F0-F00A-4828-B5BF-85B3E052A595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{993E90F0-F00A-4828-B5BF-85B3E052A595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{993E90F0-F00A-4828-B5BF-85B3E052A595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3092F595-40BC-451C-9412-38E291D6F9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3092F595-40BC-451C-9412-38E291D6F9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3092F595-40BC-451C-9412-38E291D6F9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3092F595-40BC-451C-9412-38E291D6F9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
