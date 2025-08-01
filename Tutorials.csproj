@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array_1.cs" />
+    <Compile Include="array_10.cs" />
+    <Compile Include="array_2.cs" />
+    <Compile Include="array_3.cs" />
+    <Compile Include="array_4.cs" />
+    <Compile Include="array_5.cs" />
+    <Compile Include="array_6.cs" />
+    <Compile Include="array_7.cs" />
+    <Compile Include="array_8.cs" />
+    <Compile Include="array_9.cs" />
     <Compile Include="practise.cs" />
     <Compile Include="q10.cs" />
     <Compile Include="Program.cs" />
