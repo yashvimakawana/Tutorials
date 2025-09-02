@@ -53,6 +53,7 @@
     <Compile Include="array_7.cs" />
     <Compile Include="array_8.cs" />
     <Compile Include="array_9.cs" />
+    <Compile Include="getar-setar.cs" />
     <Compile Include="practise.cs" />
     <Compile Include="q10.cs" />
     <Compile Include="Program.cs" />
@@ -77,6 +78,13 @@
     <Compile Include="q7.cs" />
     <Compile Include="q8.cs" />
     <Compile Include="q9.cs" />
+    <Compile Include="t3_q1.cs" />
+    <Compile Include="t3_q2.cs" />
+    <Compile Include="t3_q3.cs" />
+    <Compile Include="t3_q4.cs" />
+    <Compile Include="t3_q5.cs" />
+    <Compile Include="t3_q6.cs" />
+    <Compile Include="t3_q7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

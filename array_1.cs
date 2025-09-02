@@ -4,21 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tutorials
+namespace DemoProject
 {
-    internal class array_1
+    class Method_overloding
     {
-            static void Main()
-            {
-            Console.WriteLine("24SOECE13033 - MAKWANA YASHVI");
+        static int Add(int a, int b)
+       {
+        return a + b;
+        }
 
+    static int Add(int a, int b, int c)
+        {
+        return a + b + c;
+        }
+    static double Add(double a, double b)
+            { return a + b; }
+        static double Add(int a, int b, double c)
+            { return a + b + c; }
 
-            int[] numbers = { 1, 2, 3, 4, 5 };
-                Console.WriteLine("Array elements are:");
-                foreach (int number in numbers)
-                {
-                    Console.WriteLine(number);
-                }
-            }
+        public static void main (string[] args)
     }
 }
