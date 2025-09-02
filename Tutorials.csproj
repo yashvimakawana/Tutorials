@@ -85,6 +85,16 @@
     <Compile Include="t3_q5.cs" />
     <Compile Include="t3_q6.cs" />
     <Compile Include="t3_q7.cs" />
+    <Compile Include="t4_q1.cs" />
+    <Compile Include="t4_q10.cs" />
+    <Compile Include="t4_q2.cs" />
+    <Compile Include="t4_q3.cs" />
+    <Compile Include="t4_q4.cs" />
+    <Compile Include="t4_q5.cs" />
+    <Compile Include="t4_q6.cs" />
+    <Compile Include="t4_q7.cs" />
+    <Compile Include="t4_q8.cs" />
+    <Compile Include="t4_q9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
